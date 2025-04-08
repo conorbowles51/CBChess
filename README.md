@@ -1,2 +1,2 @@
 ## CB Chess
-# A simple chess engine written in Java.
+A simple chess engine written in Java.
